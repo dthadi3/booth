@@ -59,3 +59,4 @@ after_failure:
 
 notifications:
         irc: "irc.freenode.net#clusterlabs-dev"
+ 
