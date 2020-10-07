@@ -10,6 +10,9 @@
 #     "https://raw.githubusercontent.com/${GHREPO}/master/include/${INCLFILE}"
 sudo: required
 dist: trusty
+arch:
+   - AMD64
+   - ppc64le
 
 language: c
 compiler: gcc
